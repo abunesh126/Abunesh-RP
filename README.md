@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abunesh%20R%20P&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abunesh%20R%20P&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20Computer%20Vision%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abunesh+%F0%9F%91%8B;Full+Stack+%2B+AI+Developer;Building+Intelligent+Web+Systems;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abunesh+%F0%9F%91%8B;Front-End+Developer+%7C+AI+%26+CV+Enthusiast;Building+Intelligent+Web+Systems;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,17 +28,23 @@
 
 ```python
 developer = {
-    "name"     : "Abunesh R P",
-    "location" : "Coimbatore, Tamil Nadu, India 🇮🇳",
-    "role"     : "Full Stack + AI Developer",
-    "mission"  : "Building intelligent, scalable web applications",
-    "approach" : ["Learn", "Build", "Integrate", "Optimize"],
-    "status"   : "Open to Opportunities 🚀"
+    "name"       : "Abunesh R P",
+    "title"      : "Front-End Developer | AI & Computer Vision Enthusiast",
+    "location"   : "Coimbatore, Tamil Nadu, India 🇮🇳",
+    "university" : "Karunya University, Coimbatore",
+    "degree"     : "B.Tech — Artificial Intelligence & Data Science",
+    "email"      : "abunesh2006@gmail.com",
+    "portfolio"  : "https://abuneshrp.netlify.app/",
+    "mission"    : "Building intelligent, scalable web applications",
+    "approach"   : ["Learn", "Build", "Integrate", "Optimize"],
+    "status"     : "Open to Opportunities 🚀"
 }
 ```
 
+I am a B.Tech student specialising in **Artificial Intelligence and Data Science** with a strong interest in **front-end development** and real-world AI applications. I have worked on projects involving Flask APIs, computer vision, radar-based classification, and automated systems like smart parking solutions. I enjoy learning new technologies, building clean user interfaces, and solving practical problems through code.
+
 - 🔭 Passionate about combining **AI/ML** with modern web development
-- 🧠 Experienced in building **full-stack applications** end-to-end — from UI to deployment
+- 🧠 Experienced building **full-stack applications** end-to-end — from UI to deployment
 - 🤖 Working on **computer vision**, **deep learning**, and **automation systems**
 - ⚡ Strong believer in project-first, hands-on learning
 - 🎯 Goal: Become a **Full Stack AI Engineer** building production-grade intelligent platforms
@@ -51,10 +57,11 @@ developer = {
 
 | 🌱 Learning Now | 🔮 Next Frontier |
 |:---|:---|
-| Advanced ML & Deep Learning | AI SaaS Product Development |
+| React.js & TypeScript | AI SaaS Product Development |
 | YOLO-based Computer Vision | LLM Integration & Fine-tuning |
-| Workflow Automation (n8n, RPA) | Scalable Cloud Architectures |
-| System Design & Architecture | Open Source Contribution |
+| Flutter & Dart | Scalable Cloud Architectures |
+| MySQL & Data Structures | Open Source Contribution |
+| Workflow Automation (n8n, RPA) | Advanced Deep Learning |
 
 </div>
 
@@ -82,6 +89,7 @@ developer = {
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 </div>
@@ -122,6 +130,7 @@ developer = {
 ![LSTM](https://img.shields.io/badge/LSTM_RNN-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 </div>
@@ -134,6 +143,7 @@ developer = {
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 </div>
 
@@ -145,7 +155,7 @@ developer = {
 |---|---------|-----------|------------|
 | 🌐 | **Portfolio Website** | React, Styled Components | Multi-page, responsive, clean UI/UX |
 | 📋 | **College Attendance Management System** | Flask, MySQL, HTML/CSS/JS | Subject-wise tracking, full DBMS project |
-| 🌸 | **Flower Identification AI** | Python, Deep Learning | 5-class classifier: Daisy, Rose, Tulip, Sunflower, Dandelion |
+| 🌸 | **Flower Identification AI** | Python, Deep Learning (CNN) | 5-class classifier: Daisy, Rose, Tulip, Sunflower, Dandelion |
 | 🎙️ | **Real-Time Speech-to-Text** | Whisper AI, CUDA, Python | GPU-accelerated, low-latency transcription |
 | 🌊 | **Weather Data Pipeline** | Prefect, PostgreSQL, Snowflake, Power BI | End-to-end ETL pipeline with visualization |
 | 🎯 | **Micro-Doppler Target Classifier** | Python, ML, Signal Processing | Drone vs Bird classification (SIH 2024) |
@@ -171,6 +181,7 @@ developer = {
 - 🤖 **AI-powered web applications** (vision, NLP, automation)
 - 🌐 **Full-stack projects** with modern React + Python backends
 - 📊 **Data pipelines and analytics dashboards**
+- 📱 **Web and Mobile App Development**
 - 🚀 **Open source contributions** and real-world problem solving
 
 ---
@@ -179,16 +190,13 @@ developer = {
 
 <div align="center">
 
-<a href="https://github.com/Abunesh126">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true" height="165"/>
-</a>
-<a href="https://github.com/Abunesh126">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abunesh126&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Abunesh126&theme=radical&hide_border=true" height="165"/>
 
 <br/><br/>
 
@@ -211,6 +219,12 @@ developer = {
     ├── Contribute to open-source AI and web projects
     └── Work in AI product engineering or build my own startup
 ```
+
+---
+
+## ✍️ Dev Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
