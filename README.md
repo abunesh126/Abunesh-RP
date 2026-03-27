@@ -190,9 +190,9 @@ I am a B.Tech student specialising in **Artificial Intelligence and Data Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 <br/><br/>
 
