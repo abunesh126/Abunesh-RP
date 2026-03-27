@@ -1,240 +1,387 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abunesh%20R%20P&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20Computer%20Vision%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+<!-- HEADER BANNER — Dark Gold Luxury -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1200,100:0d0d0d&height=220&section=header&text=Abunesh%20R%20P&fontSize=62&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Computer%20Vision%20Engineer&descAlignY=60&descAlign=50&descSize=18&stroke=D4AF37&strokeWidth=1" width="100%"/>
+
+<!-- GOLD DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abunesh+%F0%9F%91%8B;Front-End+Developer+%7C+AI+%26+CV+Enthusiast;Building+Intelligent+Web+Systems;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=%E2%9C%A6+Building+Intelligent+Web+Systems+%E2%9C%A6;Full+Stack+%7C+AI+%7C+Computer+Vision+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CODING GIF -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="420" alt="Coding Animation"/>
+<!-- GOLD BADGE ROW -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-D4AF37?style=for-the-badge&labelColor=0d0d0d&color=D4AF37"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20AI-B8860B?style=for-the-badge&labelColor=0d0d0d&color=B8860B"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-India%20%F0%9F%87%AE%F0%9F%87%B3-C5A028?style=for-the-badge&labelColor=0d0d0d&color=C5A028"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- CTA BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abuneshrp.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abunesh-r-p-803677278/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abunesh2006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-D4AF37?style=for-the-badge&logoColor=0d0d0d&logo=google-chrome)](https://abuneshrp.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-B8860B?style=for-the-badge&logoColor=0d0d0d&logo=linkedin)](https://www.linkedin.com/in/abunesh-r-p-803677278/)
+&nbsp;
+[![Email](https://img.shields.io/badge/◈_Email-C5A028?style=for-the-badge&logoColor=0d0d0d&logo=gmail)](mailto:abunesh2006@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ ABOUT ME }`
 
 ```python
 developer = {
     "name"       : "Abunesh R P",
-    "title"      : "Front-End Developer | AI & Computer Vision Enthusiast",
+    "title"      : "Full Stack Developer  |  AI & Computer Vision Engineer",
     "location"   : "Coimbatore, Tamil Nadu, India 🇮🇳",
     "university" : "Karunya University, Coimbatore",
     "degree"     : "B.Tech — Artificial Intelligence & Data Science",
-    "email"      : "abunesh2006@gmail.com",
+    "contact"    : "abunesh2006@gmail.com",
     "portfolio"  : "https://abuneshrp.netlify.app/",
     "mission"    : "Building intelligent, scalable web applications",
-    "approach"   : ["Learn", "Build", "Integrate", "Optimize"],
-    "status"     : "Open to Opportunities 🚀"
+    "approach"   : ["Learn ⟶", "Build ⟶", "Integrate ⟶", "Optimize"],
+    "status"     : "✦ Open to Opportunities ✦"
 }
 ```
 
-I am a B.Tech student specialising in **Artificial Intelligence and Data Science** with a strong interest in **front-end development** and real-world AI applications. I have worked on projects involving Flask APIs, computer vision, radar-based classification, and automated systems like smart parking solutions. I enjoy learning new technologies, building clean user interfaces, and solving practical problems through code.
+> I am a B.Tech student in **Artificial Intelligence & Data Science** — building at the intersection of modern web engineering and real-world AI systems. From Flask APIs and computer vision pipelines to deep learning models and smart automation, I design and ship end-to-end intelligent applications.
 
-- 🔭 Passionate about combining **AI/ML** with modern web development
-- 🧠 Experienced building **full-stack applications** end-to-end — from UI to deployment
-- 🤖 Working on **computer vision**, **deep learning**, and **automation systems**
-- ⚡ Strong believer in project-first, hands-on learning
-- 🎯 Goal: Become a **Full Stack AI Engineer** building production-grade intelligent platforms
+<br/>
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 Currently Learning & Exploring
+**What I bring:**
+- 🔭 **AI/ML + Web** — bridging intelligent models with production UIs
+- 🧠 **Full-Stack** — from pixel-perfect frontends to scalable backends
+- 🤖 **Computer Vision** — YOLO, OpenCV, real-time inference
+- ⚡ **Project-first learner** — I build to understand, then I master
+
+</td>
+<td width="50%">
+
+**Currently:**
+- 🌱 Mastering React, TypeScript & Next.js
+- 🎯 Exploring AI Agents & LLM Integration
+- 🔮 Building toward Full Stack AI Engineer
+- 🚀 Open to internships & collaborations
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ LEARNING ROADMAP }`
 
 <div align="center">
 
-| 🌱 Learning Now | 🔮 Next Frontier |
+| ✦ &nbsp; Mastering Now | ✦ &nbsp; Next Frontier |
 |:---|:---|
-| React.js & TypeScript | AI SaaS Product Development |
-| YOLO-based Computer Vision | LLM Integration & Fine-tuning |
-| Flutter & Dart | Scalable Cloud Architectures |
-| MySQL & Data Structures | Open Source Contribution |
-| Workflow Automation (n8n, RPA) | Advanced Deep Learning |
+| ⚛️ React.js & TypeScript | 🤖 AI SaaS Product Development |
+| 👁️ YOLO-based Computer Vision | 🧠 LLM Integration & Fine-tuning |
+| 📱 Flutter & Dart | ☁️ Scalable Cloud Architectures |
+| 🗄️ MySQL & Data Structures | 🌐 Open Source Contribution |
+| ⚙️ Workflow Automation (n8n, RPA) | 🔬 Advanced Deep Learning |
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Skills
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
 
-### 💻 Programming Languages
+<br/>
+
+## ◈ &nbsp;`{ TECH ARSENAL }`
+
+### ✦ &nbsp; Languages
+
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 
 </div>
 
-### 🎨 Frontend Development
+### ✦ &nbsp; Frontend
+
 <div align="center">
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Figma](https://skillicons.dev/icons?i=figma)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
 
 </div>
 
-### ⚙️ Backend Development
+### ✦ &nbsp; Backend
+
 <div align="center">
 
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
+![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
+![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)
 
 </div>
 
-### 🗄️ Databases
+### ✦ &nbsp; Databases
+
 <div align="center">
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
 
 </div>
 
-### 🤖 AI / ML & Data
+### ✦ &nbsp; AI / ML Stack
+
 <div align="center">
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![sklearn](https://skillicons.dev/icons?i=sklearn)
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
+![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)
+![sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
 
 </div>
 
 <div align="center">
 
-![Whisper AI](https://img.shields.io/badge/Whisper_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=python&logoColor=black)
-![LSTM](https://img.shields.io/badge/LSTM_RNN-FF6F61?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Whisper AI](https://img.shields.io/badge/Whisper_AI-D4AF37?style=for-the-badge&logo=openai&logoColor=0d0d0d)
+![YOLO](https://img.shields.io/badge/YOLOv8-B8860B?style=for-the-badge&logo=python&logoColor=0d0d0d)
+![LSTM](https://img.shields.io/badge/LSTM_RNN-C5A028?style=for-the-badge&logo=python&logoColor=0d0d0d)
+![Pandas](https://img.shields.io/badge/Pandas-D4AF37?style=for-the-badge&logo=pandas&logoColor=0d0d0d)
+![Tableau](https://img.shields.io/badge/Tableau-B8860B?style=for-the-badge&logo=tableau&logoColor=0d0d0d)
+![Snowflake](https://img.shields.io/badge/Snowflake-C5A028?style=for-the-badge&logo=snowflake&logoColor=0d0d0d)
 
 </div>
 
-### 🧰 Tools & Platforms
+### ✦ &nbsp; DevOps & Tools
+
 <div align="center">
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark)
 
 </div>
 
----
+<br/>
 
-## 🏆 Project Highlights
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
 
-| # | Project | Tech Stack | Highlights |
-|---|---------|-----------|------------|
-| 🌐 | **Portfolio Website** | React, Styled Components | Multi-page, responsive, clean UI/UX |
-| 📋 | **College Attendance Management System** | Flask, MySQL, HTML/CSS/JS | Subject-wise tracking, full DBMS project |
-| 🌸 | **Flower Identification AI** | Python, Deep Learning (CNN) | 5-class classifier: Daisy, Rose, Tulip, Sunflower, Dandelion |
-| 🎙️ | **Real-Time Speech-to-Text** | Whisper AI, CUDA, Python | GPU-accelerated, low-latency transcription |
-| 🌊 | **Weather Data Pipeline** | Prefect, PostgreSQL, Snowflake, Power BI | End-to-end ETL pipeline with visualization |
-| 🎯 | **Micro-Doppler Target Classifier** | Python, ML, Signal Processing | Drone vs Bird classification (SIH 2024) |
-| 💧 | **Water Level Prediction (LSTM)** | PyTorch, LSTM, Time-Series | Future-level forecasting from historical data |
+<br/>
 
----
-
-## 💼 Experience
-
-### 🏢 Web Development Intern — Nandha Info Tech
-- Gained hands-on experience in **full-stack web application development**
-- Practiced real-world **project structuring, team collaboration, and deployment workflows**
-- Strengthened skills in **frontend-backend integration** and production-level thinking
-
-### 🏅 Smart India Hackathon 2024 — Participant
-- Built AI classification pipeline for **Micro-Doppler based aerial object detection**
-- Developed full solution from signal processing to ML model inference
-
----
-
-## 🤝 Open to Collaborate On
-
-- 🤖 **AI-powered web applications** (vision, NLP, automation)
-- 🌐 **Full-stack projects** with modern React + Python backends
-- 📊 **Data pipelines and analytics dashboards**
-- 📱 **Web and Mobile App Development**
-- 🚀 **Open source contributions** and real-world problem solving
-
----
-
-## 📊 GitHub Stats
+## ◈ &nbsp;`{ PROJECT VAULT }`
 
 <div align="center">
 
-<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+| ✦ | Project | Stack | Impact |
+|:---:|:--------|:------|:-------|
+| 🌐 | **Portfolio Website** | React, Styled Components | Multi-page · Responsive · Clean UI/UX |
+| 📋 | **Attendance Management System** | Flask · MySQL · HTML/CSS/JS | Subject-wise tracking · Full DBMS |
+| 🌸 | **Flower Identification AI** | Python · CNN · Deep Learning | 5-class classifier · 90%+ accuracy |
+| 🎙️ | **Real-Time Speech-to-Text** | Whisper AI · CUDA · Python | GPU-accelerated · Low-latency |
+| 🌊 | **Weather Data Pipeline** | Prefect · PostgreSQL · Snowflake · Power BI | End-to-end ETL · Live visualization |
+| 🎯 | **Micro-Doppler Target Classifier** | Python · ML · Signal Processing | Drone vs Bird · SIH 2024 |
+| 💧 | **Water Level Prediction (LSTM)** | PyTorch · LSTM · Time-Series | Future-level forecasting |
 
-<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ EXPERIENCE }`
+
+<table>
+<tr>
+<td>
+
+### 🏢 &nbsp; Web Development Intern — Nandha Info Tech
+![Internship](https://img.shields.io/badge/Internship-D4AF37?style=flat-square&logoColor=0d0d0d)
+
+- Hands-on **full-stack web application** development in a production environment
+- Real-world **project structuring, team collaboration & deployment workflows**
+- Strengthened **frontend-backend integration** and production-level engineering mindset
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏅 &nbsp; Smart India Hackathon 2024 — Participant
+![Hackathon](https://img.shields.io/badge/National%20Hackathon-B8860B?style=flat-square&logoColor=0d0d0d)
+
+- Built AI classification pipeline for **Micro-Doppler aerial object detection**
+- Full solution: signal processing → ML inference → classification output
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ OPEN TO COLLABORATE }`
+
+<div align="center">
+
+| ✦ &nbsp; Area | ✦ &nbsp; What I can bring |
+|:---|:---|
+| 🤖 AI-powered Web Apps | Vision · NLP · Automation pipelines |
+| 🌐 Full-Stack Projects | React + Python backends · REST APIs |
+| 📊 Data Pipelines | ETL · Analytics dashboards |
+| 📱 Web & Mobile | React Native · Flutter |
+| 🚀 Open Source | Real-world problem solving |
+
+</div>
+
+<br/>
+
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ GITHUB STATS }`
+
+<div align="center">
+
+<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=D4AF37&icon_color=B8860B&text_color=C5A028&bg_color=0d0d0d&ring_color=D4AF37" height="170"/>
+&nbsp;&nbsp;
+<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=C5A028&bg_color=0d0d0d" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Abunesh126&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Abunesh126&theme=dark&hide_border=true&background=0d0d0d&ring=D4AF37&fire=B8860B&currStreakLabel=D4AF37&sideLabels=C5A028&dates=888888&currStreakNum=D4AF37&sideNums=C5A028" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&theme=radical&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&bg_color=0d0d0d&color=D4AF37&line=B8860B&point=D4AF37&area=true&area_color=1a1200&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🎯 Career Objective & Future Vision
+<!-- TROPHY -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abunesh126&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=D4AF37" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp;`{ VISION & TRAJECTORY }`
 
 ```
-🎯  Become a Full Stack AI Engineer — designing and shipping intelligent platforms
-    that combine modern web engineering with practical AI/ML systems.
+✦  MISSION — Full Stack AI Engineer
+   ┌─────────────────────────────────────────────────────────┐
+   │  Design and ship intelligent platforms that combine     │
+   │  modern web engineering with practical AI/ML systems.   │
+   └─────────────────────────────────────────────────────────┘
 
-🔮  Future Goals:
-    ├── Build AI SaaS products at production scale
-    ├── Develop intelligent automation platforms (n8n, agents, RPA)
-    ├── Create vision-assisted & language-model-powered web apps
-    ├── Contribute to open-source AI and web projects
-    └── Work in AI product engineering or build my own startup
+✦  ROADMAP
+   ├── ⚡ Build AI SaaS products at production scale
+   ├── 🤖 Develop intelligent automation platforms (n8n, agents)
+   ├── 👁️ Create vision + language model powered web apps
+   ├── 🌐 Contribute to open-source AI & web projects
+   └── 🚀 AI product engineering — or build my own startup
 ```
 
----
+<br/>
 
-## ✍️ Dev Quote
+<!-- GOLD SEPARATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:D4AF37,100:0d0d0d&height=2&section=header" width="80%"/>
+</div>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<br/>
 
----
+## ◈ &nbsp;`{ DEV PHILOSOPHY }`
 
 <div align="center">
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+> *✦ &nbsp; "Code is like humor. When you have to explain it, it's bad." &nbsp; ✦*
+>
+> — Cory House
 
-*"Learn → Build → Integrate → Optimize — one commit at a time."*
+<br/>
 
-**⭐ If you like my work, drop a star — it keeps me going! 🚀**
+![Quote](https://img.shields.io/badge/Learn%20%E2%86%92%20Build%20%E2%86%92%20Integrate%20%E2%86%92%20Optimize-D4AF37?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOOTER -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abunesh126&label=Profile+Views&color=D4AF37&style=for-the-badge&labelColor=0d0d0d)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1200,100:0d0d0d&height=140&section=footer&animation=fadeIn&fontColor=D4AF37&fontSize=16&text=✦%20%20one%20commit%20at%20a%20time%20%20✦" width="100%"/>
 
 </div>
