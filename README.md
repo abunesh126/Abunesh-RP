@@ -200,9 +200,13 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abunesh126&theme=github_dark" width="100%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=donut&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abunesh126&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abunesh126&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abunesh126&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abunesh126&theme=github_dark&utcOffset=5.5" width="49%" />
 
 </div>
 
