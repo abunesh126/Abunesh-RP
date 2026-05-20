@@ -196,19 +196,25 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 ---
 
-## ◈ `{ ACHIEVEMENTS & BADGES }`
 
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abunesh126&theme=github_dark" width="100%" />
+## 🏅 Achievements & Badges
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abunesh126&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abunesh126&theme=github_dark" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronnie-allen&theme=radical" alt="Contribution Graph" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abunesh126&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abunesh126&theme=github_dark&utcOffset=5.5" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronnie-allen&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronnie-allen&theme=radical" alt="Most Commit Language" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronnie-allen&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronnie-allen&theme=radical" alt="Productive Time" />
+</p>
+
+<hr>
 
 <br/>
 
