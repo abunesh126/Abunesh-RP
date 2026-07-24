@@ -26,7 +26,7 @@
 
 **Hi there 👋 — I'm Abunesh R P**
 
-3rd year **B.Tech AI & Data Science** student at Karunya University, Coimbatore.
+4th year **B.Tech AI & Data Science** student at Karunya University, Coimbatore.
 
 I build AI-powered full-stack systems — from pixel-perfect React frontends to production ML models. Every project I ship starts from a real problem worth solving.
 
