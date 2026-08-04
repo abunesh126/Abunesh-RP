@@ -62,79 +62,206 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-# 🚀 TECH STACK 
+<!-- ========================================================= -->
+# 🚀 Tech Stack
+
+<div align="center">
+
+> **Building scalable Full Stack applications with AI-powered solutions.**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 💻 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
+
+</p>
+
+**Frameworks & UI**
+
+- ⚛️ React
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 💅 Styled Components
+- ⚡ Chakra UI
+- 📊 Chart.js
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
+
+</p>
+
+**API Development**
+
+- REST APIs
+- JWT Authentication
+- API Integration
+- Authentication & Authorization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark"/>
+
+</p>
+
+**Also Working With**
+
+- SQLite
+- Qdrant (Vector Database)
+- Redis
+
+</td>
+
+<td valign="top">
+
+### ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,netlify,vercel&theme=dark"/>
+
+</p>
+
+**Deployment**
+
+- Render
+- CI/CD
+- Linux
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🤖 AI Engineering
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+</p>
+
+**LLM Stack**
+
+- LangChain
+- Hugging Face
+- Whisper
+- RAG
+- FastEmbed
+- Sentence Transformers
+- Vector Search
+- Prompt Engineering
+
+</td>
+
+<td valign="top">
+
+### 📊 Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark"/>
+
+</p>
+
+**Libraries**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Plotly
+- Power BI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,pycharm&theme=dark"/>
+
+</p>
+
+**Developer Workflow**
+
+- Notion
+- Ollama
+- Google Colab
+
+</td>
+
+<td valign="top">
+
+### 🎯 Currently Exploring
+
+```text
+✔ AI Agents
+✔ LangGraph
+✔ n8n Automation
+✔ System Design
+✔ Microservices
+✔ Cloud Architecture
+✔ DevOps
+✔ DSA
+```
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-## 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## ⚡ Current Focus
 
-## 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,styledcomponents" />
-  <br/>
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flexbox-764ABC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+```text
+🟢 Building Production-Ready Full Stack Applications
 
-## ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,django,laravel" />
-  <br/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+🟢 Developing AI-powered Software
 
-## 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn" />
-  <br/>
-  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Whisper%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+🟢 Learning System Design & Cloud
 
-## 📊 Data & Analytics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,jupyter" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+🟢 Preparing for Software Engineering Roles
 
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
-</p>
 
-## ☁️ Cloud, DevOps & Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,netlify,githubactions" />
-  <br/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-## 🛠️ Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma,blender" />
-  <br/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-## Featured Projects
+```## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
