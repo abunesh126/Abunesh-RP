@@ -11,8 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abunesh-r-p-803677278)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Abunesh126&style=flat-square&color=334155&label=views)](https://github.com/Abunesh126)
-
 </div>
 
 <br/>
