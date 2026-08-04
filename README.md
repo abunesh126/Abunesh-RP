@@ -332,8 +332,6 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 ---
 
-# 🌐 Let's Connect
-
 <div align="center">
 
 <br><br>
