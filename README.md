@@ -263,7 +263,6 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 ---
 
-
 # 📊 GitHub Dashboard
 
 <div align="center">
@@ -272,13 +271,17 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 <tr>
 <td>
 
-<img height="170" src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img height="175" src="https://abunesh126-github-stats.vercel.app/api?username=abunesh126&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true"/>
+</a>
 
 </td>
 
 <td>
 
-<img height="170" src="https://abunesh126-readme-stats.vercel.app/api/top-langs?username=Abunesh126&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img height="175" src="https://abunesh126-github-stats.vercel.app/api/top-langs?username=abunesh126&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
+</a>
 
 </td>
 </tr>
@@ -286,11 +289,11 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Abunesh126&theme=github-dark-blue&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=abunesh126&theme=github-dark-blue&hide_border=true"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&theme=github-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abunesh126&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -300,7 +303,7 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abunesh126&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abunesh126&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
@@ -310,7 +313,7 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Abunesh126&limit=6&theme=github_dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=abunesh126&limit=6&theme=github_dark&combine_all_yearly_contributions=true"/>
 
 </div>
 
@@ -336,7 +339,7 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Abunesh126&style=for-the-badge&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=abunesh126&style=for-the-badge&color=38BDF8"/>
 
 </div>
 
