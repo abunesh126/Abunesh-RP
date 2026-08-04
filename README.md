@@ -273,61 +273,79 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 ---
 
 
-## ◈ `{ GITHUB STATS }`
+<!-- ========================================================= -->
+# 📊 GitHub Dashboard
+<!-- ========================================================= -->
 
 <div align="center">
-<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A&ring_color=38BDF8" height="165"/>
-&nbsp;&nbsp;
-<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="165"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=Abunesh126&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=334155&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=38BDF8&sideNums=94A3B8" height="165"/>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&bg_color=0F172A&color=38BDF8&line=334155&point=38BDF8&area=true&area_color=0F172A&hide_border=true" width="100%"/>
+
+<table>
+<tr>
+<td>
+<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A&ring_color=38BDF8" height="170"/>
+</td>
+<td>
+<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="170"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Abunesh126&theme=github-dark-blue&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=38BDF8&sideNums=94A3B8" width="80%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 </div>
 
-<br/>
-
 ---
 
-
-
-## 🏅 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abunesh RP&theme=radical" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abunesh RP&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abunesh RP&theme=radical" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abunesh RP&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abunesh RP&theme=radical" alt="Productive Time" />
-</p>
-
-<hr>
-
-<br/>
-
----
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Open+to+internships+%26+collaborations;Let%27s+build+something+that+matters;Reach+out+via+email+or+LinkedIn)](https://git.io/typing-svg)
+<img src="https://github-profile-trophy.vercel.app/?username=Abunesh126&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
 
-<br/>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abunesh-r-p-803677278)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)&nbsp;
+---
 
+# 📌 Open Source Summary
 
-<br/>
+<div align="center">
 
-`"Build things that matter. Code solutions that scale. Create impact."`
+<img src="https://github-contributor-stats.vercel.app/api?username=Abunesh126&limit=6&theme=github_dark&combine_all_yearly_contributions=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:0F172A,100:020617&height=100&section=footer" />
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/abunesh-r-p-803677278)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Open+to+Software+Engineering+Opportunities;Building+Full+Stack+%26+AI+Applications;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Abunesh126&style=for-the-badge&color=38BDF8"/>
 
 </div>
