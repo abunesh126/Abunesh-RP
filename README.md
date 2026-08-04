@@ -260,8 +260,8 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 🟢 Preparing for Software Engineering Roles
 
-
-```## Featured Projects
+---
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
