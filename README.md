@@ -336,10 +336,6 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/abunesh-r-p-803677278)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)
-
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Open+to+Software+Engineering+Opportunities;Building+Full+Stack+%26+AI+Applications;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
