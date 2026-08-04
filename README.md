@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
----
 
 <!-- INTRO — Two column -->
 <table border="0" cellspacing="0" cellpadding="0">
