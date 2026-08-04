@@ -1,27 +1,240 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Abunesh R P**, a Full Stack Developer and AI enthusiast passionate about building scalable web applications and intelligent software.<br><br>* 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)<br>* 💻 Interested in Software Engineering, Full Stack Development, and AI-powered applications<br>* 🚀 Building projects with **React, TypeScript, Node.js, Express.js, Python, MongoDB, SQL, and Tailwind CSS**<br>* 🤖 Exploring **LLMs, LangChain, RAG, Vector Databases, AI Automation, and n8n**<br>* 🔍 Passionate about clean architecture, performance optimization, and modern UI/UX<br>* 📚 Continuously learning Data Structures & Algorithms, System Design, Cloud, and DevOps<br>* 🌱 Always building, experimenting, and improving through real-world projects<br><br>### 🚀 Current Focus<br><br>* Building production-ready Full Stack applications<br>* Developing AI-powered tools and automation workflows<br>* Strengthening Data Structures & Algorithms and System Design<br>* Preparing for Software Engineering roles<br><br>### 🎯 Career Goal<br><br>To become a Software Engineer who builds scalable products that combine modern software engineering with artificial intelligence to solve meaningful real-world problems.<br>
+<div align="center">
 
+<!-- HEADER BANNER — Minimal & Professional -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:334155&height=180&section=header&text=Abunesh%20R%20P&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Abunesh RP) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ Abunesh RP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abunesh.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abunesh R P) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@abunesh126) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abuneshgaming) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abunesh R.P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abunesh06@gmail.com) 
+<!-- TYPING SVG — clean, minimal -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abunesh126&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abunesh126&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abunesh126&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abunesh126&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abunesh-r-p-803677278)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Abunesh126&style=flat-square&color=334155&label=views)](https://github.com/Abunesh126)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abunesh126&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abunesh126&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- INTRO — Two column -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="55%">
+
+**Hi there 👋 — I'm Abunesh R P**
+
+4th year **B.Tech AI & Data Science** student at Karunya University, Coimbatore.
+
+I build AI-powered full-stack systems — from pixel-perfect React frontends to production ML models. Every project I ship starts from a real problem worth solving.
+
+```
+Stack  →  React · TypeScript · Python · Flask
+AI/ML  →  TensorFlow · PyTorch · OpenCV · YOLO
+Data   →  Pandas · Snowflake · Power BI · Prefect
+```
+
+- 📍 Coimbatore, Tamil Nadu, India
+- 🎓 AI & Data Science · Karunya University (2022–2027)
+- 🔭 Exploring AI Agents & Intelligent Automation
+- 🤝 Open to internships · collabs · open-source
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+# 🚀 TECH STACK 
+---
+
+## 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+## 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,styledcomponents" />
+  <br/>
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flexbox-764ABC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,django,laravel" />
+  <br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn" />
+  <br/>
+  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whisper%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+## 📊 Data & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,jupyter" />
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
+</p>
+
+## ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,netlify,githubactions" />
+  <br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## 🛠️ Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma,blender" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🕊️ **DOVE** | Speech-to-Sign Language AI — accessibility for the deaf community | Python · Deep Learning · Imitation Learning |
+| ✈️ **CLAVE** | Military Aviation Surveillance — drone & aircraft detection system | Computer Vision · Radar · YOLO |
+| 💧 **HydroWatch** | Water Quality AI — IoT + LSTM for smart city infrastructure | IoT · LSTM · Time-Series |
+| 📡 **Micro Doppler Classifier** | Aerial target classification via radar signatures — SIH 2024 | Python · Signal Processing · ML |
+| 🎙️ **Real-Time Speech-to-Text** | Low-latency transcription with Whisper AI + GPU acceleration | Whisper AI · Python · CUDA |
+| 🌦️ **Weather Data Pipeline** | End-to-end data engineering pipeline with visualization | Prefect · Snowflake · Power BI |
+
+<br/>
+
+---
+
+## ◈ `{ EXPERIENCE }`
+
+<table>
+<tr>
+<td width="3%" align="center">🏢</td>
+<td>
+
+**Web Development Intern — Nandha Info Tech**
+Hands-on full-stack development in a production environment — project structuring, team collaboration, frontend-backend integration & deployment workflows.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="3%" align="center">🏅</td>
+<td>
+
+**Smart India Hackathon 2024** &nbsp;`Team: Clave`
+AI pipeline for Micro-Doppler aerial object detection (Drone vs Bird) — signal processing → ML inference → classification output.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="3%" align="center">🏅</td>
+<td>
+
+**Smart India Hackathon 2025** &nbsp;`Team: Code-Adamantor`
+Microplastic detection & water quality monitoring system — sensor data ingestion → analytics → Chart.js dashboards. Multi-module UI: Dashboard · Graph Analytics · Sensor Logs · Settings.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+
+## ◈ `{ GITHUB STATS }`
+
+<div align="center">
+<img src="https://abunesh126-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A&ring_color=38BDF8" height="165"/>
+&nbsp;&nbsp;
+<img src="https://abunesh126-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="165"/>
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=Abunesh126&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=334155&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=38BDF8&sideNums=94A3B8" height="165"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&bg_color=0F172A&color=38BDF8&line=334155&point=38BDF8&area=true&area_color=0F172A&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+
+
+## 🏅 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abunesh RP&theme=radical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abunesh RP&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abunesh RP&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abunesh RP&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abunesh RP&theme=radical" alt="Productive Time" />
+</p>
+
+<hr>
+
+<br/>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Open+to+internships+%26+collaborations;Let%27s+build+something+that+matters;Reach+out+via+email+or+LinkedIn)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abunesh-r-p-803677278)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)&nbsp;
+
+
+<br/>
+
+`"Build things that matter. Code solutions that scale. Create impact."`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:0F172A,100:020617&height=100&section=footer" />
+
+</div>
