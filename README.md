@@ -7,14 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8)](https://abuneshrp.netlify.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abunesh-r-p-803677278)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:abunesh2006@gmail.com)&nbsp;
-</div>
-
-<br/>
-
 ---
 
 <!-- INTRO — Two column -->
