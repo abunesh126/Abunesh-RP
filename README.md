@@ -62,7 +62,8 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ---
 
-<!-- ========================================================= -->
+<!-- ===================== TECH STACK ===================== -->
+
 # 🚀 Tech Stack
 
 <div align="center">
@@ -71,19 +72,14 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 </div>
 
-<br>
-
 <table>
 <tr>
-
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Frontend
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
-
 </p>
 
 **Frameworks & UI**
@@ -96,101 +92,84 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 - 📊 Chart.js
 
 </td>
-
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
-
 </p>
 
 **API Development**
 
 - REST APIs
 - JWT Authentication
-- API Integration
 - Authentication & Authorization
+- API Integration
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
 ### 🗄️ Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark"/>
-
 </p>
 
 **Also Working With**
 
 - SQLite
-- Qdrant (Vector Database)
 - Redis
+- Qdrant (Vector Database)
 
 </td>
-
 <td valign="top">
 
 ### ☁️ Cloud & DevOps
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,netlify,vercel&theme=dark"/>
-
 </p>
 
 **Deployment**
 
 - Render
-- CI/CD
 - Linux
+- CI/CD
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
 ### 🤖 AI Engineering
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
 </p>
 
 **LLM Stack**
 
-- LangChain
 - Hugging Face
+- LangChain
 - Whisper
 - RAG
 - FastEmbed
 - Sentence Transformers
-- Vector Search
 - Prompt Engineering
+- Vector Search
 
 </td>
-
 <td valign="top">
 
 ### 📊 Data Science
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark"/>
-
 </p>
 
 **Libraries**
@@ -203,29 +182,24 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 - Power BI
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
 ### 🛠️ Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,pycharm&theme=dark"/>
-
 </p>
 
-**Developer Workflow**
+**Workflow**
 
 - Notion
 - Ollama
 - Google Colab
 
 </td>
-
 <td valign="top">
 
 ### 🎯 Currently Exploring
@@ -242,25 +216,9 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ```
 
 </td>
-
 </tr>
-
 </table>
 
----
-
-## ⚡ Current Focus
-
-```text
-🟢 Building Production-Ready Full Stack Applications
-
-🟢 Developing AI-powered Software
-
-🟢 Learning System Design & Cloud
-
-🟢 Preparing for Software Engineering Roles
-
----
 ## Featured Projects
 
 | Project | Description | Stack |
