@@ -310,26 +310,6 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abunesh126&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
----
-
-# 📌 Top Open Source Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abunesh126&limit=6&theme=github_dark&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
 # 💬 Developer Quote
 
 <div align="center">
