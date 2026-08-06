@@ -26,7 +26,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ```
 
 - 📍 Coimbatore, Tamil Nadu, India
-- 🎓 AI & Data Science · Karunya University (2022–2027)
+- 🎓 AI & Data Science · Karunya University (2023–2027)
 - 🔭 Exploring AI Agents & Intelligent Automation
 - 🤝 Open to internships · collabs · open-source
 
