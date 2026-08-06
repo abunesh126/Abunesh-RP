@@ -210,20 +210,31 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 </tr>
 </table>
 
-## Featured Projects
+<!-- ================= FEATURED PROJECTS ================= -->
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🕊️ **DOVE** | Speech-to-Sign Language AI — accessibility for the deaf community | Python · Deep Learning · Imitation Learning |
-| ✈️ **CLAVE** | Military Aviation Surveillance — drone & aircraft detection system | Computer Vision · Radar · YOLO |
-| 💧 **HydroWatch** | Water Quality AI — IoT + LSTM for smart city infrastructure | IoT · LSTM · Time-Series |
-| 📡 **Micro Doppler Classifier** | Aerial target classification via radar signatures — SIH 2024 | Python · Signal Processing · ML |
-| 🎙️ **Real-Time Speech-to-Text** | Low-latency transcription with Whisper AI + GPU acceleration | Whisper AI · Python · CUDA |
-| 🌦️ **Weather Data Pipeline** | End-to-end data engineering pipeline with visualization | Prefect · Snowflake · Power BI |
+# ✨ Featured Projects
 
-<br/>
+> A selection of projects showcasing my work in **Full Stack Development, AI, and Intelligent Systems**.
 
----
+| 🚀 Project | 💡 Description | 🛠️ Tech Stack |
+|:----------|:---------------|:--------------|
+| 🕊️ **DOVE – Deaf Over Voice Engine** | AI-powered speech-to-sign language system designed to improve communication accessibility for the deaf community. | Python • Deep Learning • Computer Vision • AI |
+| 💧 **HydroWatch** | Smart water quality monitoring platform with real-time analytics and predictive insights for sustainable infrastructure. | React • TypeScript • IoT • Time-Series • AI |
+| 🎯 **FISH – Focus Intense Student Habitation** | Productivity platform that helps students stay focused using task management, Pomodoro sessions, and analytics. | React • TypeScript • Tailwind CSS • Firebase |
+| 🏦 **Nexus Banking** | Modern digital banking application featuring responsive UI, authentication, and secure financial dashboards. | JavaScript • React • REST APIs • UI/UX |
+| 🛍️ **Visual Park Mall** | AI-assisted shopping and mall management solution with intelligent features and interactive user experience. | Python • Computer Vision • Full Stack |
+
+<div align="center">
+
+### 🚀 More Projects
+
+Explore **40+ repositories** covering Full Stack Development, Artificial Intelligence, Machine Learning, Automation, and Open Source.
+
+<a href="https://github.com/abunesh126?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ## ◈ `{ EXPERIENCE }`
 
