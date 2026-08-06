@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER — Obsidian Gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A0A,100:181818&height=180&section=header&text=Abunesh%20R%20P&fontSize=52&fontColor=D4AF37&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=58&descSize=18&descColor=F5F5F5&animation=fadeIn" />
+<!-- HEADER BANNER — Minimal & Professional -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:334155&height=180&section=header&text=Abunesh%20R%20P&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" />
 
-<!-- TYPING SVG — Gold on black -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=D4AF37&background=000000&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
-
-</div>
+<!-- TYPING SVG — clean, minimal -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -447,4 +445,4 @@ Developed an intelligent **Microplastic Detection & Water Quality Monitoring Sys
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181818,50:0A0A0A,100:000000&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:0F172A,100:020617&height=110&section=footer"/>
