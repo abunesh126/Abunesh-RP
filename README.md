@@ -62,48 +62,160 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 <!-- ===================== TECH STACK ===================== -->
 
+# 🚀 Tech Stack
+
 <div align="center">
 
-## 🚀 Tech Stack
-
-> Building scalable Full Stack applications with AI-powered solutions.
+> **Building scalable Full Stack applications with AI-powered solutions.**
 
 </div>
 
-### ⚡ Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Styled Components` `Chakra UI` `Chart.js`
+### 💻 Frontend
 
-### 🤖 AI Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
+</p>
 
-`PyTorch` `TensorFlow` `OpenCV` `Hugging Face` `LangChain` `Whisper` `RAG` `FastEmbed` `Sentence Transformers` `Prompt Engineering` `Vector Search`
+**Frameworks & UI**
+
+- ⚛️ React
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 💅 Styled Components
+- ⚡ Chakra UI
+- 📊 Chart.js
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 
-`Node.js` `Express` `FastAPI` `Flask` `REST APIs` `JWT Auth` `API Integration`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
+</p>
+
+**API Development**
+
+- REST APIs
+- JWT Authentication
+- Authentication & Authorization
+- API Integration
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🗄️ Databases
 
-`MongoDB` `MySQL` `PostgreSQL` `Firebase` `Supabase` `SQLite` `Redis` `Qdrant`
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark"/>
+</p>
 
-### 📊 Data Science
+**Also Working With**
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Plotly` `Power BI` `Jupyter`
+- SQLite
+- Redis
+- Qdrant (Vector Database)
+
+</td>
+<td valign="top">
 
 ### ☁️ Cloud & DevOps
 
-`Docker` `AWS` `GCP` `GitHub Actions` `Netlify` `Vercel` `Render` `Linux` `CI/CD`
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,netlify,vercel&theme=dark"/>
+</p>
+
+**Deployment**
+
+- Render
+- Linux
+- CI/CD
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🤖 AI Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+</p>
+
+**LLM Stack**
+
+- Hugging Face
+- LangChain
+- Whisper
+- RAG
+- FastEmbed
+- Sentence Transformers
+- Prompt Engineering
+- Vector Search
+
+</td>
+<td valign="top">
+
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark"/>
+</p>
+
+**Libraries**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Plotly
+- Power BI
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🛠️ Tools
 
-`Git` `GitHub` `GitLab` `VS Code` `Postman` `Figma` `PyCharm` `Notion` `Ollama` `Google Colab`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,pycharm&theme=dark"/>
+</p>
+
+**Workflow**
+
+- Notion
+- Ollama
+- Google Colab
+
+</td>
+<td valign="top">
 
 ### 🎯 Currently Exploring
 
-`AI Agents` `LangGraph` `n8n Automation` `System Design` `Microservices` `Cloud Architecture` `DevOps` `DSA`
+```text
+✔ AI Agents
+✔ LangGraph
+✔ n8n Automation
+✔ System Design
+✔ Microservices
+✔ Cloud Architecture
+✔ DevOps
+✔ DSA
+```
 
----
-
+</td>
+</tr>
+</table>
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <div align="center">
