@@ -232,7 +232,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ```
 ╭──────────────────────────╮
-│ 🕊️  DOVE                 │
+│     DOVE                 │
 │  Deaf Over Voice Engine  │
 │                          │
 │  AI-powered speech-to-   │
@@ -249,7 +249,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ```
 ╭──────────────────────────╮
-│ 💧  HydroWatch           │
+│     HydroWatch           │
 │                          │
 │  Smart water quality     │
 │  monitoring platform     │
@@ -268,13 +268,13 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ```
 ╭──────────────────────────╮
-│ 🎯  FISH                 │
+│     FISH                 │
 │  Focus Intense Student   │
-│  Habitation               │
+│  Habitation              │
 │                          │
 │  Productivity platform:  │
 │  tasks, Pomodoro,        │
-│  analytics.               │
+│  analytics.              │
 │                          │
 │  React · TypeScript      │
 │  Tailwind CSS · Firebase │
@@ -286,7 +286,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ```
 ╭──────────────────────────╮
-│ 🏦  Nexus Banking         │
+│    Nexus Banking         │
 │                          │
 │  Modern digital banking  │
 │  app: responsive UI,     │
@@ -304,12 +304,12 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 ```
 ╭──────────────────────────╮
-│ 🛍️  Visual Park Mall      │
+│    Visual Park Mall      │
 │                          │
 │  AI-assisted shopping &  │
 │  mall management with    │
 │  intelligent, interactive│
-│  UX.                      │
+│  UX.                     │
 │                          │
 │  Python · Computer Vision│
 │  Full Stack              │
@@ -335,26 +335,59 @@ Explore **40+ repositories** covering Full Stack Development, AI, Machine Learni
 
 <!-- ================= EXPERIENCE ================= -->
 
-<div align="center">
+# 💼 Experience
 
-## 💼 Experience
+<table>
 
-</div>
+<tr>
+<td width="5%" align="center">💻</td>
+<td>
 
-**01 · Web Development Intern** — *Nandha Info Tech*
-Worked on real-world Full Stack Web Development in a collaborative environment, contributing to frontend and backend features, REST API integration, responsive UI development, Git-based workflows, debugging, testing, and deployment practices.
-`React` `JavaScript` `Node.js` `Express.js` `MySQL` `Git`
+### **Web Development Intern** · Nandha Info Tech
 
-**02 · Smart India Hackathon 2024** — *Team CLAVE*
-Designed an AI-powered Micro-Doppler aerial target classification system capable of distinguishing drones and birds using radar signatures. Contributed to signal processing, machine learning model development, feature engineering, and inference pipeline design.
-`AI` `Machine Learning` `Signal Processing` `Radar Analytics`
+Worked on real-world **Full Stack Web Development** in a collaborative environment, contributing to frontend and backend features, REST API integration, responsive UI development, Git-based workflows, debugging, testing, and deployment practices.
 
-**03 · Smart India Hackathon 2025** — *Team Code-Adamantor*
-Developed an intelligent Microplastic Detection & Water Quality Monitoring System featuring sensor integration, real-time analytics, interactive dashboards, and visualization modules for environmental monitoring.
-Modules: Dashboard · Analytics · Sensor Monitoring · Reports · Settings
-`React` `Chart.js` `IoT` `Data Visualization` `AI`
+**Tech:** React • JavaScript • Node.js • Express.js • MySQL • Git
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="5%" align="center">🏆</td>
+<td>
+
+### **Smart India Hackathon 2024** · Team **CLAVE**
+
+Designed an AI-powered **Micro-Doppler aerial target classification system** capable of distinguishing drones and birds using radar signatures. Contributed to signal processing, machine learning model development, feature engineering, and inference pipeline design.
+
+**Domain:** AI • Machine Learning • Signal Processing • Radar Analytics
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="5%" align="center">🚀</td>
+<td>
+
+### **Smart India Hackathon 2025** · Team **Code-Adamantor**
+
+Developed an intelligent **Microplastic Detection & Water Quality Monitoring System** featuring sensor integration, real-time analytics, interactive dashboards, and visualization modules for environmental monitoring.
+
+**Modules:** Dashboard • Analytics • Sensor Monitoring • Reports • Settings
+
+**Tech:** React • Chart.js • IoT • Data Visualization • AI
+
+</td>
+</tr>
+
+</table>
 
 ---
+
 
 <!-- ================= GITHUB STATS ================= -->
 
