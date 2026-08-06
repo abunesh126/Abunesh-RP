@@ -278,26 +278,6 @@ Microplastic detection & water quality monitoring system — sensor data ingesti
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-<img height="175" src="https://abunesh126-github-stats.vercel.app/api?username=abunesh126&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true"/>
-</a>
-
-</td>
-
-<td>
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-<img height="175" src="https://abunesh126-github-stats.vercel.app/api/top-langs?username=abunesh126&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
-</a>
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <img height="180" src="https://streak-stats.demolab.com?user=abunesh126&theme=github-dark-blue&hide_border=true"/>
