@@ -321,7 +321,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 
 **🚀 More Projects**
 
-Explore **40+ repositories** covering Full Stack Development, AI, Machine Learning, Automation, and Open Source.
+Explore **20+ repositories** covering Full Stack Development, AI, Machine Learning, Automation, and Open Source.
 
 <a href="https://github.com/abunesh126?tab=repositories">
 <img src="https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000"/>
