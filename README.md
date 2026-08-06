@@ -236,41 +236,58 @@ Explore **40+ repositories** covering Full Stack Development, Artificial Intelli
 
 </div>
 
-## ◈ `{ EXPERIENCE }`
+<!-- ================= EXPERIENCE ================= -->
+
+# 💼 Experience
 
 <table>
+
 <tr>
-<td width="3%" align="center">🏢</td>
+<td width="5%" align="center">💻</td>
 <td>
 
-**Web Development Intern — Nandha Info Tech**
-Hands-on full-stack development in a production environment — project structuring, team collaboration, frontend-backend integration & deployment workflows.
+### **Web Development Intern** · Nandha Info Tech
+
+Worked on real-world **Full Stack Web Development** in a collaborative environment, contributing to frontend and backend features, REST API integration, responsive UI development, Git-based workflows, debugging, testing, and deployment practices.
+
+**Tech:** React • JavaScript • Node.js • Express.js • MySQL • Git
 
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
-<td width="3%" align="center">🏅</td>
+<td width="5%" align="center">🏆</td>
 <td>
 
-**Smart India Hackathon 2024** &nbsp;`Team: Clave`
-AI pipeline for Micro-Doppler aerial object detection (Drone vs Bird) — signal processing → ML inference → classification output.
+### **Smart India Hackathon 2024** · Team **CLAVE**
+
+Designed an AI-powered **Micro-Doppler aerial target classification system** capable of distinguishing drones and birds using radar signatures. Contributed to signal processing, machine learning model development, feature engineering, and inference pipeline design.
+
+**Domain:** AI • Machine Learning • Signal Processing • Radar Analytics
 
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
-<td width="3%" align="center">🏅</td>
+<td width="5%" align="center">🚀</td>
 <td>
 
-**Smart India Hackathon 2025** &nbsp;`Team: Code-Adamantor`
-Microplastic detection & water quality monitoring system — sensor data ingestion → analytics → Chart.js dashboards. Multi-module UI: Dashboard · Graph Analytics · Sensor Logs · Settings.
+### **Smart India Hackathon 2025** · Team **Code-Adamantor**
+
+Developed an intelligent **Microplastic Detection & Water Quality Monitoring System** featuring sensor integration, real-time analytics, interactive dashboards, and visualization modules for environmental monitoring.
+
+**Modules:** Dashboard • Analytics • Sensor Monitoring • Reports • Settings
+
+**Tech:** React • Chart.js • IoT • Data Visualization • AI
 
 </td>
 </tr>
+
 </table>
-
-<br/>
 
 ---
 
