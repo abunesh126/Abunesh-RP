@@ -424,6 +424,15 @@ Developed an intelligent **Microplastic Detection & Water Quality Monitoring Sys
 
 ---
 
+# 💬 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
+---
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=D4AF37&background=000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+Software+%26+AI+Applications;Open+to+Software+Engineering+Roles;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
