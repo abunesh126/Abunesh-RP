@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- HEADER BANNER — Minimal & Professional -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:334155&height=180&section=header&text=Abunesh%20R%20P&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" />
+<!-- HEADER BANNER — Obsidian Gold -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A0A,100:181818&height=180&section=header&text=Abunesh%20R%20P&fontSize=52&fontColor=D4AF37&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20ML%20Developer&descAlignY=58&descSize=18&descColor=F5F5F5&animation=fadeIn" />
 
-<!-- TYPING SVG — clean, minimal -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+<!-- TYPING SVG — Gold on black -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=D4AF37&background=000000&center=true&vCenter=true&width=680&lines=Full+Stack+%7C+AI+%7C+ML+Developer;Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;Building+Intelligent+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- INTRO — Two column -->
+<!-- ================= ABOUT ================= -->
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
-**Hi there 👋 — I'm Abunesh R P**
+## 👨‍💻 About Me
+
+**Hi there — I'm Abunesh R P**
 
 4th year **B.Tech AI & Data Science** student at Karunya University, Coimbatore.
 
@@ -25,41 +29,88 @@ AI/ML  →  TensorFlow · PyTorch · OpenCV · YOLO
 Data   →  Pandas · Snowflake · Power BI · Prefect
 ```
 
-- 📍 Coimbatore, Tamil Nadu, India
-- 🎓 AI & Data Science · Karunya University (2023–2027)
-- 🔭 Exploring AI Agents & Intelligent Automation
-- 🤝 Open to internships · collabs · open-source
+📍 Coimbatore, Tamil Nadu, India
+🎓 AI & Data Science · Karunya University (2023–2027)
+🔭 Exploring AI Agents & Intelligent Automation
+🤝 Open to internships · collabs · open-source
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding animation" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
-# 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://abuneshrp.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abuneshrp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abunesh.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abunesh126)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@abuneshgaming)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abunesh06@gmail.com)
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://abuneshrp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=D4AF37&logo=firefox&labelColor=000000" /></a>
+<a href="https://linkedin.com/in/abuneshrp"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="https://instagram.com/abunesh.dev"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="https://x.com/abunesh126"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="https://youtube.com/@abuneshgaming"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="mailto:abunesh06@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" /></a>
+
+</div>
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 
-# 🚀 Tech Stack
+<div align="center">
+
+## 🚀 Tech Stack
+
+> Building scalable Full Stack applications with AI-powered solutions.
+
+</div>
+
+### ⚡ Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Styled Components` `Chakra UI` `Chart.js`
+
+### 🤖 AI Engineering
+
+`PyTorch` `TensorFlow` `OpenCV` `Hugging Face` `LangChain` `Whisper` `RAG` `FastEmbed` `Sentence Transformers` `Prompt Engineering` `Vector Search`
+
+### ⚙️ Backend
+
+`Node.js` `Express` `FastAPI` `Flask` `REST APIs` `JWT Auth` `API Integration`
+
+### 🗄️ Databases
+
+`MongoDB` `MySQL` `PostgreSQL` `Firebase` `Supabase` `SQLite` `Redis` `Qdrant`
+
+### 📊 Data Science
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Plotly` `Power BI` `Jupyter`
+
+### ☁️ Cloud & DevOps
+
+`Docker` `AWS` `GCP` `GitHub Actions` `Netlify` `Vercel` `Render` `Linux` `CI/CD`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `GitLab` `VS Code` `Postman` `Figma` `PyCharm` `Notion` `Ollama` `Google Colab`
+
+### 🎯 Currently Exploring
+
+`AI Agents` `LangGraph` `n8n Automation` `System Design` `Microservices` `Cloud Architecture` `DevOps` `DSA`
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
 
 <div align="center">
 
-> **Building scalable Full Stack applications with AI-powered solutions.**
+## ✨ Featured Projects
+
+> A selection of projects showcasing my work in Full Stack Development, AI, and Intelligent Systems.
 
 </div>
 
@@ -67,268 +118,179 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
-</p>
-
-**Frameworks & UI**
-
-- ⚛️ React
-- ▲ Next.js
-- 🎨 Tailwind CSS
-- 💅 Styled Components
-- ⚡ Chakra UI
-- 📊 Chart.js
+```
+╭──────────────────────────╮
+│ 🕊️  DOVE                 │
+│  Deaf Over Voice Engine  │
+│                          │
+│  AI-powered speech-to-   │
+│  sign language system    │
+│  for accessibility.      │
+│                          │
+│  Python · Deep Learning  │
+│  Computer Vision · AI    │
+╰──────────────────────────╯
+```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
-</p>
-
-**API Development**
-
-- REST APIs
-- JWT Authentication
-- Authentication & Authorization
-- API Integration
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark"/>
-</p>
-
-**Also Working With**
-
-- SQLite
-- Redis
-- Qdrant (Vector Database)
-
-</td>
-<td valign="top">
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,netlify,vercel&theme=dark"/>
-</p>
-
-**Deployment**
-
-- Render
-- Linux
-- CI/CD
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🤖 AI Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-</p>
-
-**LLM Stack**
-
-- Hugging Face
-- LangChain
-- Whisper
-- RAG
-- FastEmbed
-- Sentence Transformers
-- Prompt Engineering
-- Vector Search
-
-</td>
-<td valign="top">
-
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark"/>
-</p>
-
-**Libraries**
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Plotly
-- Power BI
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,pycharm&theme=dark"/>
-</p>
-
-**Workflow**
-
-- Notion
-- Ollama
-- Google Colab
-
-</td>
-<td valign="top">
-
-### 🎯 Currently Exploring
-
-```text
-✔ AI Agents
-✔ LangGraph
-✔ n8n Automation
-✔ System Design
-✔ Microservices
-✔ Cloud Architecture
-✔ DevOps
-✔ DSA
+```
+╭──────────────────────────╮
+│ 💧  HydroWatch           │
+│                          │
+│  Smart water quality     │
+│  monitoring platform     │
+│  with real-time analytics│
+│  & predictive insights.  │
+│                          │
+│  React · TypeScript      │
+│  IoT · Time-Series · AI  │
+╰──────────────────────────╯
 ```
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ================= FEATURED PROJECTS ================= -->
+```
+╭──────────────────────────╮
+│ 🎯  FISH                 │
+│  Focus Intense Student   │
+│  Habitation               │
+│                          │
+│  Productivity platform:  │
+│  tasks, Pomodoro,        │
+│  analytics.               │
+│                          │
+│  React · TypeScript      │
+│  Tailwind CSS · Firebase │
+╰──────────────────────────╯
+```
 
-# ✨ Featured Projects
+</td>
+<td width="50%" valign="top">
 
-> A selection of projects showcasing my work in **Full Stack Development, AI, and Intelligent Systems**.
+```
+╭──────────────────────────╮
+│ 🏦  Nexus Banking         │
+│                          │
+│  Modern digital banking  │
+│  app: responsive UI,     │
+│  auth, secure dashboards.│
+│                          │
+│  JavaScript · React      │
+│  REST APIs · UI/UX       │
+╰──────────────────────────╯
+```
 
-| 🚀 Project | 💡 Description | 🛠️ Tech Stack |
-|:----------|:---------------|:--------------|
-| 🕊️ **DOVE – Deaf Over Voice Engine** | AI-powered speech-to-sign language system designed to improve communication accessibility for the deaf community. | Python • Deep Learning • Computer Vision • AI |
-| 💧 **HydroWatch** | Smart water quality monitoring platform with real-time analytics and predictive insights for sustainable infrastructure. | React • TypeScript • IoT • Time-Series • AI |
-| 🎯 **FISH – Focus Intense Student Habitation** | Productivity platform that helps students stay focused using task management, Pomodoro sessions, and analytics. | React • TypeScript • Tailwind CSS • Firebase |
-| 🏦 **Nexus Banking** | Modern digital banking application featuring responsive UI, authentication, and secure financial dashboards. | JavaScript • React • REST APIs • UI/UX |
-| 🛍️ **Visual Park Mall** | AI-assisted shopping and mall management solution with intelligent features and interactive user experience. | Python • Computer Vision • Full Stack |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+```
+╭──────────────────────────╮
+│ 🛍️  Visual Park Mall      │
+│                          │
+│  AI-assisted shopping &  │
+│  mall management with    │
+│  intelligent, interactive│
+│  UX.                      │
+│                          │
+│  Python · Computer Vision│
+│  Full Stack              │
+╰──────────────────────────╯
+```
 
-### 🚀 More Projects
+</td>
+<td width="50%" valign="top" align="center">
 
-Explore **40+ repositories** covering Full Stack Development, Artificial Intelligence, Machine Learning, Automation, and Open Source.
+**🚀 More Projects**
+
+Explore **40+ repositories** covering Full Stack Development, AI, Machine Learning, Automation, and Open Source.
 
 <a href="https://github.com/abunesh126?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
+
+---
 
 <!-- ================= EXPERIENCE ================= -->
 
-# 💼 Experience
+<div align="center">
 
-<table>
+## 💼 Experience
 
-<tr>
-<td width="5%" align="center">💻</td>
-<td>
+</div>
 
-### **Web Development Intern** · Nandha Info Tech
+**01 · Web Development Intern** — *Nandha Info Tech*
+Worked on real-world Full Stack Web Development in a collaborative environment, contributing to frontend and backend features, REST API integration, responsive UI development, Git-based workflows, debugging, testing, and deployment practices.
+`React` `JavaScript` `Node.js` `Express.js` `MySQL` `Git`
 
-Worked on real-world **Full Stack Web Development** in a collaborative environment, contributing to frontend and backend features, REST API integration, responsive UI development, Git-based workflows, debugging, testing, and deployment practices.
+**02 · Smart India Hackathon 2024** — *Team CLAVE*
+Designed an AI-powered Micro-Doppler aerial target classification system capable of distinguishing drones and birds using radar signatures. Contributed to signal processing, machine learning model development, feature engineering, and inference pipeline design.
+`AI` `Machine Learning` `Signal Processing` `Radar Analytics`
 
-**Tech:** React • JavaScript • Node.js • Express.js • MySQL • Git
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="5%" align="center">🏆</td>
-<td>
-
-### **Smart India Hackathon 2024** · Team **CLAVE**
-
-Designed an AI-powered **Micro-Doppler aerial target classification system** capable of distinguishing drones and birds using radar signatures. Contributed to signal processing, machine learning model development, feature engineering, and inference pipeline design.
-
-**Domain:** AI • Machine Learning • Signal Processing • Radar Analytics
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="5%" align="center">🚀</td>
-<td>
-
-### **Smart India Hackathon 2025** · Team **Code-Adamantor**
-
-Developed an intelligent **Microplastic Detection & Water Quality Monitoring System** featuring sensor integration, real-time analytics, interactive dashboards, and visualization modules for environmental monitoring.
-
-**Modules:** Dashboard • Analytics • Sensor Monitoring • Reports • Settings
-
-**Tech:** React • Chart.js • IoT • Data Visualization • AI
-
-</td>
-</tr>
-
-</table>
+**03 · Smart India Hackathon 2025** — *Team Code-Adamantor*
+Developed an intelligent Microplastic Detection & Water Quality Monitoring System featuring sensor integration, real-time analytics, interactive dashboards, and visualization modules for environmental monitoring.
+Modules: Dashboard · Analytics · Sensor Monitoring · Reports · Settings
+`React` `Chart.js` `IoT` `Data Visualization` `AI`
 
 ---
 
-# 📊 GitHub Dashboard
+<!-- ================= GITHUB STATS ================= -->
 
 <div align="center">
+
+## 📊 GitHub Dashboard
 
 <br>
 
-<img height="180" src="https://streak-stats.demolab.com?user=abunesh126&theme=github-dark-blue&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=abunesh126&theme=github-dark-blue&hide_border=true&background=000000&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=A1A1A1"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abunesh126&theme=github-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abunesh126&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=D4AF37&line=D4AF37&point=F5F5F5"/>
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+<!-- ================= ACHIEVEMENTS ================= -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+## 🏆 Achievements
 
 </div>
+
+| # | Milestone |
+|:---:|:---|
+| 01 | AI Projects Built |
+| 02 | Open Source Contributions |
+| 03 | Hackathon Experience — SIH 2024 & 2025 |
+| 04 | Developer Tools Created |
 
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+Software+%26+AI+Applications;Open+to+Software+Engineering+Roles;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=D4AF37&background=000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+Software+%26+AI+Applications;Open+to+Software+Engineering+Roles;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 
 > **"Build things that matter. Code solutions that scale. Create impact."**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=abunesh126&style=for-the-badge&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=abunesh126&style=for-the-badge&color=D4AF37&label=Profile+Views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:0F172A,100:020617&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181818,50:0A0A0A,100:000000&height=110&section=footer"/>
